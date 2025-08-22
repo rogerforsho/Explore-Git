@@ -1,7 +1,9 @@
-# Simple Python Program
+# Simple iceicebby Program
 
 # Print a message
+print("Hello, welcome to iceicebby!")
 print("Hello, welcome to Python!")
+print("Hello, welcome to iceicebby!")
 
 # Ask for user's name
 name = input("Enter your name: ")
