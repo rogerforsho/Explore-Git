@@ -5,6 +5,7 @@ print("Hello, welcome to iceicebby!")
 print("Hello, welcome to Python!")
 print("Hello, welcome to iceicebby!")
 #ano ano ano
+#COULD I EDIT HERE LOL
 
 # Ask for user's name
 name = input("Enter your name: ")
