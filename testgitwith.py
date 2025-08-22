@@ -8,6 +8,7 @@ print("Hello, welcome to iceicebby!")
 #COULD I EDIT HERE LOL
 #bybaybabby
 # Ask for user's name
+#hatdog manok
 name = input("Enter your name: ")
 print("Nice to meet you,", name)
 
