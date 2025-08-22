@@ -10,6 +10,7 @@ print("Hello, welcome to iceicebby!")
 # Ask for user's name
 #hatdog manok
 #tinolang paa ng manok
+#yawa lito and lito
 name = input("Enter your name: ")
 print("Nice to meet you,", name)
 
